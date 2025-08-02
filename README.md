@@ -1,5 +1,4 @@
-# 在线预览
-https://03-edusity-website.vercel.app/
+在线预览：https://03-edusity-website.vercel.app/
 
 跟学视频：https://youtu.be/WbV3zRgpw_E?si=o5KSl8fPNoVib5-T
 
