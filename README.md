@@ -1,3 +1,8 @@
+# 在线预览
+https://03-edusity-website.vercel.app/
+
+跟学视频：https://youtu.be/WbV3zRgpw_E?si=o5KSl8fPNoVib5-T
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
